@@ -4,6 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><img/>
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/fabian-lopez-b4933a216/</h3>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/fabian-lopez-b4933a216/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 <p align="left">
 </p>
 

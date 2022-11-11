@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fabian</h1>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 <h3 align="center">A passionate Full stack developer and Game Develope, from Colombia.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><img/>
 

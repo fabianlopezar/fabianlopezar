@@ -3,10 +3,10 @@
 <h3 align="center">I'm Fabian Lopez, a passionate Full stack developer and Game Developer, from Colombia.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><img/>
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/fabian-lopez-b4933a216/</h3>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fabian-lopez-b4933a216/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+<h3 align="left">Connect with me: <a href="https://github.com/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a></h3>
+
 <p align="left">
 </p>
 

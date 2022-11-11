@@ -1,6 +1,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-<h3 align="center">A passionate Full stack developer and Game Develope, from Colombia.</h3>
+<h3 align="center">I'm Fabian Lopez, a passionate Full stack developer and Game Developer, from Colombia.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><img/>
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/fabian-lopez-b4933a216/</h3>

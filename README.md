@@ -5,7 +5,9 @@
 
 <h3 align="left">Connect with me: <a href="https://linkedin.com/in/fabian-lopez-b4933a216" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a></h3>
+</a>
+  <a href="https://twitter.com/fabianlopeza5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fabianlopeza5" height="30" width="40" /></a>
+</h3>
 
 <p align="left">
 </p>

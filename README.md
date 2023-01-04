@@ -8,6 +8,7 @@
 </a>
   <a href="https://twitter.com/fabianlopeza5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fabianlopeza5" height="30" width="40" /></a>
 </h3>
+<h3>fabianlopez928@gmail.com</h3>
 
 <p align="left">
 </p>
